@@ -10,6 +10,11 @@ MEAT
 sausages
 
 DAIRY
+milk
+Eggs
+Yoghurt
+Butter
+Cheese
 
 
 
